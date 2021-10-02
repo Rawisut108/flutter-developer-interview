@@ -57,6 +57,7 @@ flutter:
     - assets/images/Niche-Syndrome.png
     - assets/images/Kanjou-Effect.jpeg
     - assets/images/Beam-of-Light.jpeg
+    - assets/images/Zeitakubyou.jpeg
 
   fonts:
     - family: Kanit
