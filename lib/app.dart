@@ -5,9 +5,9 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'ONE OK ROCK Album App',
       theme: ThemeData(primarySwatch: Colors.blue, fontFamily: 'Kanit'),
-      home: MyHomePage(title: 'Flutter Demo Home Page'),
+      home: MyHomePage(title: 'ONE OK ROCK Album'),
     );
   }
 }
